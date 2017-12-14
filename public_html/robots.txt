@@ -1,0 +1,4 @@
+# robots.txt for https://www.pgybt.in
+User-agent: *
+Allow: /*
+Sitemap: https://www.pgybt.in/sitemap.xml

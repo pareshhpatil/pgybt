@@ -1,0 +1,24 @@
+{
+    "DEV": {
+        "REPOSITORY": {
+            "DB1": "127.0.0.1",
+            "DB2": "ceyoneadmin",
+            "DB3": "ceyone@8989",
+            "DB4": "pgybt"       
+},
+        "LOG": {
+            "CONF": "../app/lib/config/log4php_config.xml"
+        }
+    },
+    "LOCAL": {
+        "REPOSITORY": {
+            "DB1": "127.0.0.1",
+            "DB2": "root",
+            "DB3": "swipezapp",
+            "DB4": "pgybt"
+        },
+        "LOG": {
+            "CONF": "../app/lib/config/log4php_config.xml"
+        }
+    }
+}
